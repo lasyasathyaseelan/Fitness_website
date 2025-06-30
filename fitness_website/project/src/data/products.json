@@ -1,0 +1,185 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Yoga Mat",
+    "description": "Non-slip, eco-friendly yoga mat perfect for all types of workouts. Made from natural rubber with excellent grip and cushioning.",
+    "price": 1299,
+    "originalPrice": 1699,
+    "images": [
+      "https://images.pexels.com/photos/3822906/pexels-photo-3822906.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "https://images.pexels.com/photos/3822912/pexels-photo-3822912.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "yoga",
+    "rating": 4.8,
+    "reviews": 324,
+    "inStock": true,
+    "tags": ["yoga", "pilates", "stretching", "eco-friendly"],
+    "isBestSeller": true
+  },
+  {
+    "id": "2",
+    "name": "Adjustable Dumbbells Set",
+    "description": "Space-saving adjustable dumbbells from 2kg to 20kg each. Perfect for strength training at home with quick weight changes.",
+    "price": 8999,
+    "originalPrice": 12999,
+    "images": [
+      "https://images.pexels.com/photos/416717/pexels-photo-416717.jpeg?auto=compress&cs=tinysrgb&w=500",
+      "https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "strength",
+    "rating": 4.9,
+    "reviews": 186,
+    "inStock": true,
+    "tags": ["strength", "muscle-building", "home-gym", "adjustable"]
+  },
+  {
+    "id": "3",
+    "name": "Resistance Bands Set",
+    "description": "Complete set of 5 resistance bands with door anchor and handles. Includes light to extra heavy resistance levels.",
+    "price": 799,
+    "originalPrice": 1299,
+    "images": [
+      "https://images.pexels.com/photos/4327024/pexels-photo-4327024.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "strength",
+    "rating": 4.7,
+    "reviews": 412,
+    "inStock": true,
+    "tags": ["resistance", "strength", "portable", "full-body"]
+  },
+  {
+    "id": "4",
+    "name": "Essential Oils Starter Kit",
+    "description": "Aromatherapy essential oils set with diffuser for relaxation. Includes lavender, eucalyptus, and peppermint oils.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "images": [
+      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "wellness",
+    "rating": 4.6,
+    "reviews": 89,
+    "inStock": true,
+    "tags": ["aromatherapy", "relaxation", "wellness", "stress-relief"]
+  },
+  {
+    "id": "5",
+    "name": "Premium Workout Plans",
+    "description": "Personalized 12-week workout and nutrition plan by certified trainers. Includes video demonstrations and meal plans.",
+    "price": 1999,
+    "images": [
+      "https://images.pexels.com/photos/6456306/pexels-photo-6456306.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "digital",
+    "rating": 4.9,
+    "reviews": 234,
+    "inStock": true,
+    "tags": ["workout-plan", "nutrition", "digital", "personalized"],
+    "isDigital": true
+  },
+  {
+    "id": "6",
+    "name": "Performance Athletic Wear",
+    "description": "Moisture-wicking, breathable workout clothing set. Includes top, shorts, and compression leggings.",
+    "price": 2799,
+    "originalPrice": 3999,
+    "images": [
+      "https://images.pexels.com/photos/6456217/pexels-photo-6456217.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "apparel",
+    "rating": 4.5,
+    "reviews": 156,
+    "inStock": true,
+    "tags": ["activewear", "breathable", "comfortable", "moisture-wicking"]
+  },
+  {
+    "id": "7",
+    "name": "Plant-Based Protein Powder",
+    "description": "Premium plant-based protein powder for muscle building and recovery. Chocolate flavor, 30 servings.",
+    "price": 3499,
+    "originalPrice": 4299,
+    "images": [
+      "https://images.pexels.com/photos/4623432/pexels-photo-4623432.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "nutrition",
+    "rating": 4.7,
+    "reviews": 298,
+    "inStock": true,
+    "tags": ["protein", "muscle-building", "recovery", "plant-based"]
+  },
+  {
+    "id": "8",
+    "name": "Meditation Cushion Set",
+    "description": "Comfortable meditation cushions with premium filling. Includes zafu and zabuton for proper posture.",
+    "price": 1899,
+    "originalPrice": 2499,
+    "images": [
+      "https://images.pexels.com/photos/6932079/pexels-photo-6932079.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "wellness",
+    "rating": 4.8,
+    "reviews": 127,
+    "inStock": true,
+    "tags": ["meditation", "mindfulness", "comfort", "posture"]
+  },
+  {
+    "id": "9",
+    "name": "Smart Fitness Tracker",
+    "description": "Advanced fitness tracker with heart rate monitoring, sleep tracking, and 20+ workout modes.",
+    "price": 4999,
+    "originalPrice": 6999,
+    "images": [
+      "https://images.pexels.com/photos/4498362/pexels-photo-4498362.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "digital",
+    "rating": 4.6,
+    "reviews": 445,
+    "inStock": true,
+    "tags": ["fitness-tracker", "heart-rate", "sleep-tracking", "smart"]
+  },
+  {
+    "id": "10",
+    "name": "Foam Roller Pro",
+    "description": "High-density foam roller for muscle recovery and injury prevention. Perfect for post-workout recovery.",
+    "price": 1599,
+    "originalPrice": 2199,
+    "images": [
+      "https://images.pexels.com/photos/6975474/pexels-photo-6975474.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "wellness",
+    "rating": 4.7,
+    "reviews": 203,
+    "inStock": true,
+    "tags": ["recovery", "muscle-relief", "injury-prevention", "massage"]
+  },
+  {
+    "id": "11",
+    "name": "Kettlebell Set",
+    "description": "Cast iron kettlebell set with comfortable grip handles. Includes 8kg, 12kg, and 16kg weights.",
+    "price": 5999,
+    "originalPrice": 7999,
+    "images": [
+      "https://images.pexels.com/photos/4164761/pexels-photo-4164761.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "strength",
+    "rating": 4.8,
+    "reviews": 167,
+    "inStock": true,
+    "tags": ["kettlebell", "strength", "functional-training", "cardio"]
+  },
+  {
+    "id": "12",
+    "name": "Balance Board",
+    "description": "Wooden balance board for core strengthening and stability training. Improves balance and coordination.",
+    "price": 2299,
+    "originalPrice": 2999,
+    "images": [
+      "https://images.pexels.com/photos/4498578/pexels-photo-4498578.jpeg?auto=compress&cs=tinysrgb&w=500"
+    ],
+    "category": "yoga",
+    "rating": 4.5,
+    "reviews": 134,
+    "inStock": true,
+    "tags": ["balance", "core", "stability", "coordination"]
+  }
+]
