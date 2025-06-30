@@ -174,13 +174,15 @@ const Cart: React.FC = () => {
               </div>
 
               {/* Checkout Button */}
-              <button
-                onClick={() => alert('Checkout functionality would be implemented here!')}
-                className="w-full bg-gradient-to-r from-emerald-600 to-blue-600 text-white py-4 rounded-lg font-semibold hover:from-emerald-700 hover:to-blue-700 transition-all duration-200 transform hover:scale-105 flex items-center justify-center mb-4"
+              <Link
+                to="/checkout"
+                className="block w-full bg-gradient-to-r from-emerald-600 to-blue-600 text-white py-4 rounded-lg font-semibold hover:from-emerald-700 hover:to-blue-700 transition-all duration-200 transform hover:scale-105 text-center mb-4"
               >
-                Proceed to Checkout
-                <ArrowRight className="w-5 h-5 ml-2" />
-              </button>
+                <div className="flex items-center justify-center">
+                  Proceed to Checkout
+                  <ArrowRight className="w-5 h-5 ml-2" />
+                </div>
+              </Link>
 
               {/* Continue Shopping */}
               <Link
